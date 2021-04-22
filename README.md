@@ -1,0 +1,2 @@
+# Music-features
+A music genre is a conventional category that identifies pieces of music as belonging to a shared tradition or set of conventions. It is to be distinguished from musical form and musical style. The features extracted from these waves can help the machine distinguish between them. The challenge is is to write a program that will predict the music type (label) of a track based on the features extracted in the attached CSV.
